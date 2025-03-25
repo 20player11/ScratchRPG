@@ -23,3 +23,6 @@ To survive in this world, you'll need to master the game’s controls and react 
 The world of Scratch RPG is vast and full of danger. Every step could lead to a new discovery or a deadly encounter. Will you rise to the challenge, adapt to the hardships, and become a legendary hero? 🏆💪 Or will you fall to the dangers lurking in the shadows?
 
 The adventure begins now—prepare yourself! 🚀
+
+Download the newest version here:
+https://github.com/20player11/ScratchRPG/releases/tag/Scratchgames

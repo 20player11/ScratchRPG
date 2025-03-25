@@ -1,0 +1,19 @@
+Scratch RPG License
+
+Copyright (c) 2025 20player11
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use and play the Software, subject to the following conditions:
+
+No Modification: The Software may not be modified, altered, or used as a base for derivative works.
+
+No Redistribution: The Software may not be copied, shared, distributed, sublicensed, or resold in any form.
+
+Attribution: Credit must be given to 20player11 as the original creator of Scratch RPG in any related media or references.
+
+Non-Commercial Use: The Software may not be used for commercial purposes without explicit written permission from 20player11.
+
+No Warranty: The Software is provided "as is," without warranty of any kind, express or implied.
+
+By using this Software, you agree to the terms of this license.
+
+For inquiries regarding commercial use, please contact info.20player11@gmail.com.
